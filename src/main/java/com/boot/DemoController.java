@@ -26,6 +26,6 @@ public class DemoController {
 		
 		model.addAttribute("message", "hello.jsp입니다.");
 		
-		return "hello";
+		return "hellohi";
 	}
 }
